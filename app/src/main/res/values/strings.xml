@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NEWSAPP</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="ImageUrl">https://atlas-content-cdn.pixelsquid.com/assets_v2/191/1912564081961735300/previews/G03-200x200.jpg</string>
+    <string name="ImageUrl1">https://atlas-content-cdn.pixelsquid.com/assets_v2/191/1912564081961735300/previews/G03-200x200.jpg</string>
+    <string name="ImageUrl2">https://atlas-content-cdn.pixelsquid.com/assets_v2/191/1912564081961735300/previews/G03-200x200.jpg</string>
+    <string name="ImageUrl3">https://atlas-content-cdn.pixelsquid.com/assets_v2/191/1912564081961735300/previews/G03-200x200.jpg</string>
+    <string name="ImageUrl4">https://atlas-content-cdn.pixelsquid.com/assets_v2/191/1912564081961735300/previews/G03-200x200.jpg</string>
+</resources>
